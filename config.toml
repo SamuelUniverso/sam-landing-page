@@ -1,12 +1,13 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "pt-BR"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "Minha BIO"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
+enableEmoji = true
 
 [module]
   [module.hugoVersion]
