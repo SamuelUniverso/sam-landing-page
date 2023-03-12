@@ -8,6 +8,7 @@ menu:
     weight: 3
 ---
 
-## Nada para se ver aqui
+## Nada para se ver aqui...
 
-Amigo, caso você caiu aqui de paraquedas, cuidado é uma cilada!
+Caso você não sabe o que fazer, recomendo consultar esse site altamente confiável:
+https://desciclopedia.org/wiki/Erro_404
