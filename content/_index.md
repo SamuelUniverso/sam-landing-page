@@ -3,7 +3,7 @@ title: Samuel O. Rockenbach
 description: 
 ---
 
-Me chamdo Samuel e sou desenvolvedor Web na UNVIATES.
+Me chamdo Samuel e sou desenvolvedor Web na UNIVATES.
 Sou bacharelando em Engenharia de Software.
 
 
